@@ -1,4 +1,4 @@
-# [logicalhash.github.io](logicalhash.github.io)
+# [logicalhash.github.io](http://logicalhash.github.io/)
 ## GitHub Pages Test - Color Game
 
 This repo was used to test GitHub Pages hosting static files. 
